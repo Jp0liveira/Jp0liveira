@@ -2,11 +2,12 @@
 ---
 
 <div>
- <a href = "https://github.com/Jp0liveira" >
- <img heigth = "180em" src = "https://github-readme-stats.vercel.app/api?username=Jp0liveira&show_icons=true&theme=radical "/>
- <img heigth = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jp0liveira&layout=compact"/>
-
-
+ <a href="https://github.com/Jp0liveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jp0liveira&show_icons=true&theme=dark"/>
+</a>
+<a href="https://github.com/Jp0liveira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jp0liveira&layout=compact&theme=dark" />
+</a>
 </div>
 
 
