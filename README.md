@@ -1,4 +1,4 @@
-## Iaê, muito prazer, me chamo João Paulo e seja muito bem-vindo ao meu GitHub
+## Iaê, muito prazer, me chamo João Paulo e seja muito bem-vindo ao meu GitHub!
 ---
 
 <div>
