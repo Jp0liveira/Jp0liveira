@@ -4,10 +4,10 @@
 <div>
  <a href="https://github.com/Jp0liveira">
  <p align = "left">
- <img  height="180"  width="450" src="https://github-readme-stats.vercel.app/api?username=Jp0liveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img  height="180"  width="450" src="https://github-readme-stats.vercel.app/api?username=Jp0liveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
  </p>
   <p align = "right">
- <img height="180"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jp0liveira&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jp0liveira&layout=compact&langs_count=7&theme=synthwave"/>
   </p>
  
 </div>
