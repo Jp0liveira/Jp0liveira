@@ -1,4 +1,4 @@
-## Iaê, Eu sou o João Paulo, estudante de Ciência da Computação!
+## Iaê, muito prazer, me chamo João Paulo e seja muito bem-vindo ao meu GitHub
 ---
 
 <div>
