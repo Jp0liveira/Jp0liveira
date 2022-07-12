@@ -1,4 +1,4 @@
-## Iaê eu sou o João Paulo e seja muito bem-vindo ao meu GitHub!
+## I'm João Paulo and welcome to my GitHub!
 ---
 
 <div>
